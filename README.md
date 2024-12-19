@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Vitor Galvan Biotto 👋
 
 - 🔭 Hoje trabalho como analista de suporte TI
-- 🌱 Estou estudando sobre desenvolvimento Mobile, também cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 🌱 Hoje faço cursos sobre InfraEstrutura e Desenvolvimento Mobile.
 
 <div>
     <a href="https://github.com/vitorbiotto">
