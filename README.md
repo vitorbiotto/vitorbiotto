@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Vitor Galvan Biotto 👋
 
-- 🔭 Hoje trabalho como analista de suporte TI
+- 🔭 Hoje trabalho com Suporte Técnico de TI N1, na empresa [Spark.](https://sparkag.com.br/)
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Hoje faço cursos sobre InfraEstrutura e Desenvolvimento Mobile.
+- 📑 Hoje faço cursos sobre InfraEstrutura e Desenvolvimento Mobile.
 
 <div>
     <a href="https://github.com/vitorbiotto">
@@ -12,6 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+    <h3>Linguagens utilizadas</h3>
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
