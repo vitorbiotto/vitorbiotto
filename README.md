@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vitor Galvan Biotto 👋
 
-- 🔭 Hoje trabalho com Suporte Técnico de TI N1, na empresa [Spark.](https://sparkag.com.br/)
+- 🔭 Hoje trabalho com Suporte Técnico de TI N2, na empresa [Spark.](https://sparkag.com.br/)
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 📑 Hoje faço cursos sobre Desenvolvimento Mobile com Kotlin e Java com Spring Boot.
 
